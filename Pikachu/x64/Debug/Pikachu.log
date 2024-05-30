@@ -1,0 +1,6 @@
+﻿  Pikachu.cpp
+C:\Users\alex\OneDrive\Desktop\Tema3SD\Pikachu\Pikachu.cpp(19,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\alex\OneDrive\Desktop\Tema3SD\Pikachu\Pikachu.cpp(36,36): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\alex\OneDrive\Desktop\Tema3SD\Pikachu\Pikachu.cpp(37,37): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\alex\OneDrive\Desktop\Tema3SD\Pikachu\Pikachu.cpp(45,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Pikachu.vcxproj -> C:\Users\alex\OneDrive\Desktop\Tema3SD\Pikachu\x64\Debug\Pikachu.exe
